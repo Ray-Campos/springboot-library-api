@@ -33,8 +33,8 @@ Para evitar conflitos com instalações locais do banco de dados na sua máquina
 
 1. **Clone o repositório:**
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-diretorio>
+git clone <https://github.com/Ray-Campos/springboot-library-api>
+cd <library-api>
 
 ```
 
