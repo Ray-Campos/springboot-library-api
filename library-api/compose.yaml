@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: lib_admin
+      POSTGRES_PASSWORD: lib_password
+      POSTGRES_DB: library_db
